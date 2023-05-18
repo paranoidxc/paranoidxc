@@ -5,7 +5,7 @@ Tech Stack:
   - [x] Basic
 - [x] PHP
   - [x] Basic
-  - [x] Adv
+  - [x] Full Web Project
 - [x] Dart
   - [x] Flutter front-end development
   - [ ] Game
