@@ -3,6 +3,10 @@
 Tech Stack:
 - [x] C
   - [x] Basic
+- [ ] Operating Systems
+  - [x] virtualization
+  - [ ] concurrency
+  - [ ] persistence
 - [x] List
   - [x] Applicative-order Y Combinator
   - [x] Continuation
