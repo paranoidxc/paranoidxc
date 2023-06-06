@@ -3,13 +3,16 @@
 Tech Stack:
 - [x] C
   - [x] Basic
+  - [x] Mainly Data Structure and Algorithm
 - [ ] Operating Systems
   - [x] virtualization
-  - [ ] concurrency
+  - [x] concurrency
   - [ ] persistence
+  - [ ] MIT6.S081 (2021)
 - [x] List
   - [x] Applicative-order Y Combinator
   - [x] Continuation
+  - [ ] SICP
 - [x] PHP
   - [x] Basic
   - [x] Full Web Project
