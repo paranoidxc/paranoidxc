@@ -7,7 +7,7 @@ Tech Stack:
 - [ ] Operating Systems
   - [x] virtualization
   - [x] concurrency
-  - [ ] persistence
+  - [x] persistence
   - [ ] MIT6.S081 (2021)
 - [x] List
   - [x] Applicative-order Y Combinator
