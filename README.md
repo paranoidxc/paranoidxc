@@ -1,6 +1,6 @@
 ### Learning The Hard Way And Fucking The World 👋
 
-## 居在 福州54北，找新工作 后端开发(PHP 或着 GO)
+## 居在 福州54北 找新工作 后端开发(PHP 或 GO)
 
 Tech Stack:
 - [x] C
