@@ -18,6 +18,10 @@ Tech Stack:
 - [x] PHP
   - [x] Basic
   - [x] Full Web Project
+- [ ] GO
+  - [x] Basic
+  - [ ] Gin
+  - [ ] System Programming
 - [x] Dart
   - [x] Flutter front-end development
   - [ ] Native Game
