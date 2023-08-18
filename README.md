@@ -19,7 +19,7 @@ Tech Stack:
   - [x] Basic
   - [x] Full Web Project
 - [ ] GO
-  - [x] Basic
+  - [x] Basic * 2
   - [ ] Gin
   - [ ] Full Time Go Dev
   - [ ] System Programming
