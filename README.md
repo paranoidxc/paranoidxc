@@ -21,7 +21,7 @@ Tech Stack:
 - [ ] GO
   - [x] Basic * 2
   - [ ] Gin
-  - [ ] Full Time Go Dev
+  - [ ] Full Time Go Dev (25%)
   - [ ] System Programming
 - [x] Dart
   - [x] Flutter front-end development
