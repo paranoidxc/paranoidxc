@@ -20,7 +20,7 @@ Tech Stack:
   - [x] Full Web Project
 - [ ] GO
   - [x] Basic * 2
-  - [ ] Gin
+  - [ ] Web (Gin,sqlx,go-redis,zap,viper) (25%)
   - [ ] Full Time Go Dev (25%)
   - [ ] System Programming
 - [x] Dart
