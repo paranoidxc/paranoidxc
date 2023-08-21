@@ -31,7 +31,8 @@ Tech Stack:
   - [x] Basic Game Movement
      
 Project:
-  - [TheOldHunter](https://github.com/paranoidxc/TheOldHunter)
+  - [TheOldHunter PHP 脚手架](https://github.com/paranoidxc/TheOldHunter)
+  - [Go project脚手架](https://github.com/paranoidxc/go-web-init)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranoidxc&layout=compact&langs_count=8&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/> <img src="https://github-readme-stats.vercel.app/api?username=paranoidxc&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="185px">
