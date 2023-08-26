@@ -20,7 +20,9 @@ Tech Stack:
   - [x] Full Web Project
 - [ ] GO
   - [x] Basic * 2
-  - [ ] Web (Gin,sqlx,go-redis,zap,viper,snowflake,jwt,Qmgo,mongo) (80%)
+  - [x] Web (Gin,sqlx,go-redis,zap,viper,snowflake,jwt,Qmgo,mongo...)
+  - [x] workerpool
+  - [ ] Concurrency
   - [ ] Full Time Go Dev (25%)
   - [ ] System Programming
 - [x] Dart
