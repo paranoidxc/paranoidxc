@@ -22,8 +22,7 @@ Tech Stack:
   - [x] Basic * 2
   - [x] Web (Gin,sqlx,go-redis,zap,viper,snowflake,jwt,Qmgo,mongo...)
   - [x] workerpool
-  - [ ] Concurrency
-  - [ ] Full Time Go Dev (25%)
+  - [x] Concurrency  
   - [ ] System Programming
 - [x] Dart
   - [x] Flutter front-end development
