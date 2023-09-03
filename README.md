@@ -21,7 +21,7 @@ Tech Stack:
 - [ ] GO
   - [x] Basic * 2
   - [x] Web (Gin,sqlx,go-redis,zap,viper,snowflake,jwt,Qmgo,mongo...)
-  - [x] workerpool
+  - [x] WorkerPool,WorkQueue
   - [x] Concurrency
   - [x] micro-services (protoBuf,grpc,consul,docker)
   - [ ] System Programming
