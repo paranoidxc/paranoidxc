@@ -23,7 +23,7 @@ Tech Stack:
   - [x] Web (Gin,sqlx,go-redis,zap,viper,snowflake,jwt,Qmgo,mongo...)
   - [x] WorkerPool,WorkQueue
   - [x] Concurrency
-  - [x] micro-services (protoBuf,grpc,consul,docker)
+  - [x] MicroServices (protoBuf,grpc,consul,docker)
   - [ ] System Programming
 - [x] Dart
   - [x] Flutter front-end development
