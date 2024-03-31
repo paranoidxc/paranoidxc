@@ -1,6 +1,6 @@
 ### Learning The Hard Way And Fucking The World 👋
 
-## 居在 福州54北 找新工作 后端开发(PHP 或 GO)
+## 居在 福州54北 找新工作 后端开发(GO, PHP, JAVA)
 
 Tech Stack:
 - [x] C
@@ -15,12 +15,16 @@ Tech Stack:
   - [x] Applicative-order Y Combinator
   - [x] Continuation
   - [ ] SICP
+- [ ] JAVA
+  - [x] Basic
+  - [x] SprintBoot
+  - [ ] Adv
 - [x] PHP
   - [x] Basic
   - [x] Full Web Project
 - [ ] GO
   - [x] Basic * 2
-  - [x] Web (Gin,sqlx,go-redis,zap,viper,snowflake,jwt,Qmgo,mongo...)
+  - [x] Web Project(Gin,sqlx,go-redis,zap,viper,snowflake,jwt,Qmgo,mongo...)
   - [x] WorkerPool,WorkQueue
   - [x] Concurrency
   - [x] MicroServices (protoBuf,grpc,consul,docker)
