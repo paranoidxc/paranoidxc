@@ -37,9 +37,8 @@ Tech Stack:
   - [x] Basic Game Movement
      
 Project:
-  - [Zero Zone Go 脚手架](https://github.com/paranoidxc/In-Harmony-with-the-Dust/tree/main/go/zero-zone)
+  - [Zero Zone Go(BFF+微服务+前端）一体脚手架](https://github.com/paranoidxc/In-Harmony-with-the-Dust/tree/main/go/zero-zone)
   - [TheOldHunter PHP 脚手架](https://github.com/paranoidxc/TheOldHunter)
-  - [Go 脚手架](https://github.com/paranoidxc/go-web-init)
   - [Nvim Config](https://github.com/paranoidxc/nvim-config)
 
 
